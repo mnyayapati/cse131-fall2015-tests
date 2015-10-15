@@ -1,0 +1,3 @@
+Error, "phase2/check9/typedefconst.rc": 
+  syntax error near "typedef".
+Compile: failure.

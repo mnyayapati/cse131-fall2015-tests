@@ -1,0 +1,3 @@
+Error, "phase3/check18/funcptrwithaddress.rc": 
+  syntax error near "funcptr".
+Compile: failure.
